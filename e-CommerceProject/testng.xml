@@ -4,6 +4,12 @@
 
 <suite name="eCommerce Test Suite">
 
+    <!-- Add Listener -->
+    <listeners>
+        <listener class-name=
+            "utils.TestListener"/>
+    </listeners>
+
     <test name="All Tests">
         <classes>
             <class name="tests.LoginTest"/>
