@@ -1,0 +1,7 @@
+browser=chrome
+baseUrl=https://www.saucedemo.com/
+validUsername=YOUR_USERNAME
+validPassword=YOUR_PASSWORD
+lockedUsername=YOUR_LOCKED_USERNAME
+implicitWait=10
+explicitWait=20

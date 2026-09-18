@@ -16,4 +16,5 @@ reports/
 
 # OS files
 .DS_Store
-Thumbs.db
+Thumbs.dbsrc/test/resources/config.properties
+src/test/resources/config.properties
